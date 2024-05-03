@@ -1,18 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I'm Nethmina
+#### I am Full Stack Software Engineer
+![I am Full Stack Software Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**ByteBigBoss/ByteBigBoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Driven CEO at ImaginecoreX(Pvt) Ltd, leading a visionary team. Full-stack software engineer passionate about tech, from IT to robotics, space, and aviation. Committed to pioneering global advancements.
 
-Here are some ideas to get you started:
+Skills: NEXT JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
 
-But I like to do more changes!
+![ByteBigBoss's Stats](https://github-readme-stats.vercel.app/api?username=ByteBigBoss&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
