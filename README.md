@@ -1,5 +1,4 @@
-# 💫 Hi there 👋,
-### I'm Nethmina
+###  Hi there 👋, I'm Nethmina
 #### Full Stack Software Engineer
 ![I am Full Stack Software Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
