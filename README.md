@@ -1,6 +1,6 @@
 ###  Hi there 👋, I'm Nethmina
 #### Full Stack Software Engineer
-![I am Full Stack Software Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Full Stack Software Engineer]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/ByteBigBoss/ByteBigBoss/blob/main/ImaginecoreX%20Banner%20fb.png)
 
 Driven CEO at ImaginecoreX(Pvt) Ltd, leading a visionary team. Full-stack software engineer passionate about tech, from IT to robotics, space, and aviation. Committed to pioneering global advancements.
 
