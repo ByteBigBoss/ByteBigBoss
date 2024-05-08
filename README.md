@@ -22,6 +22,6 @@ Driven CEO at ImaginecoreX(Pvt) Ltd, leading a visionary team. Full-stack softwa
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bytebigboss&label=Profile%20Views&color=8&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ByteBigBoss&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
