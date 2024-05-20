@@ -11,7 +11,7 @@ Driven CEO at ImaginecoreX(Pvt) Ltd, leading a visionary team. Full-stack softwa
 ![ByteBigBoss's Stats](https://github-readme-stats.vercel.app/api?username=ByteBigBoss&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![ByteBigBoss's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteBigBoss&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)<br/>
 
-<div align="center">
+<div align="start">
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ByteBigBoss&theme=radical&no-frame=true&no-bg=false&margin-w=4)
