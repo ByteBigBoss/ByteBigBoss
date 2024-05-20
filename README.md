@@ -11,12 +11,17 @@ Driven CEO at ImaginecoreX(Pvt) Ltd, leading a visionary team. Full-stack softwa
 ![ByteBigBoss's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteBigBoss&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)<br/>
 ![ByteBigBoss's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ByteBigBoss&theme=vue-dark&hide_border=true)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ByteBigBoss&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ByteBigBoss&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ByteBigBoss&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ByteBigBoss&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
