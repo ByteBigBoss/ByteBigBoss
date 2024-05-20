@@ -15,7 +15,7 @@ Driven CEO at ImaginecoreX(Pvt) Ltd, leading a visionary team. Full-stack softwa
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ByteBigBoss&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote & 😂 Meme
+### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/><br/>
 
 ---
