@@ -21,6 +21,3 @@ Currently focused on building real products, sharpening engineering depth, and c
 * Scalable system design
 * Execution over noise
 
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=ByteBigBoss\&label=Views\&color=1\&icon=0\&pretty=true)
